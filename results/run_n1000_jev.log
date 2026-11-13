@@ -1,0 +1,25 @@
+[anthropic/claude-opus-5-5] 0 to run (1000 already done)
+[perplexity/glm-5.3-flash] 778 to run (222 already done)
+[anthropic/claude-opus-5-5#guess] 950 to run (50 already done)
+[perplexity/glm-5.3-flash#guess] 950 to run (50 already done)
+  [anthropic/claude-opus-5-5#guess] 100/950
+  ! [perplexity/glm-5.3-flash] qid=440 status=incomplete
+  [anthropic/claude-opus-5-5#guess] 200/950
+  [perplexity/glm-5.3-flash#guess] 100/950
+  [anthropic/claude-opus-5-5#guess] 300/950
+  [anthropic/claude-opus-5-5#guess] 400/950
+  [anthropic/claude-opus-5-5#guess] 500/950
+  [perplexity/glm-5.3-flash] 100/778
+  [perplexity/glm-5.3-flash#guess] 200/950
+  [anthropic/claude-opus-5-5#guess] 600/950
+  [anthropic/claude-opus-5-5#guess] 700/950
+  [anthropic/claude-opus-5-5#guess] 800/950
+  [anthropic/claude-opus-5-5#guess] 900/950
+  [perplexity/glm-5.3-flash#guess] 300/950
+  [perplexity/glm-5.3-flash] 200/778
+  ! [perplexity/glm-5.3-flash] qid=4167 status=incomplete
+  [perplexity/glm-5.3-flash#guess] 400/950
+  ! [perplexity/glm-5.3-flash] qid=971 status=incomplete
+  ! [perplexity/glm-5.3-flash] qid=621 status=incomplete
+  [perplexity/glm-5.3-flash] 300/778
+  [perplexity/glm-5.3-flash#guess] 500/950
