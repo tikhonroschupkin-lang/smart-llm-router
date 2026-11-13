@@ -1,0 +1,226 @@
+[anthropic/claude-opus-5-5] 0 to run (1000 already done)
+[perplexity/glm-5.3-flash] 186 to run (814 already done)
+[anthropic/claude-opus-5-5#guess] 0 to run (1000 already done)
+[perplexity/glm-5.3-flash#guess] 0 to run (1000 already done)
+  ! [perplexity/glm-5.3-flash] qid=1390 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=1460 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=1329 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=1326 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=1362 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=1364 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=1343 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=1367 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=1366 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=1428 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=1290 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=1276 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=1474 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=1351 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=1423 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=1334 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=1281 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=1275 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=1256 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=1270 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=1944 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=4260 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=1272 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=1240 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=1242 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=2645 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=4154 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=3401 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=1239 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=1224 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=531 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=3711 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=465 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=1141 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=1936 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=2629 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=444 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=4116 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=1043 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=3691 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=3232 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=3352 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=4167 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=1837 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=2570 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=1022 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=514 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=3218 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=3653 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=4110 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=1875 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=2575 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=3670 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=463 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=1012 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=440 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=1042 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=4109 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=1005 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=1818 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=429 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=4079 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=3231 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=2613 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=3167 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=4093 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=538 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=3682 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=3639 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=1826 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=3630 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=2569 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=173 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=1798 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=4076 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=3628 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=2563 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=971 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=4078 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=286 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=979 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=3077 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=1765 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=3615 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=352 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=1790 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=985 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=2553 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=221 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=3065 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=3586 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=4012 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=2530 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=3613 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=3052 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=159 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=965 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=2525 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=3992 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=3606 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  [perplexity/glm-5.3-flash] 100/186
+  ! [perplexity/glm-5.3-flash] qid=125 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=1774 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=961 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=2527 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=3587 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=3063 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=962 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=3917 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=2992 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=3984 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=2486 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=2476 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=61 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=939 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=3565 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=1718 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=2465 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=1752 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=2918 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=3551 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=927 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=3966 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=3572 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=3909 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=3006 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=1754 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=33 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=897 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=1708 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=2464 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=3544 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=2895 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=3897 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=2861 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=2466 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=3518 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=1691 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=3834 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=31 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=868 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=2382 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=2756 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=3514 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=3876 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=666 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=3827 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=2450 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=1675 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=3488 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=720 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=2764 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=2359 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=3422 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=3835 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=641 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=1646 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=2260 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=3815 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=3434 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=668 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=2175 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=3484 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=1580 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=1559 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=572 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=2343 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=3412 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=2718 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=621 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=3802 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=1501 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=1949 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=558 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=3414 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=2697 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=3784 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=543 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=1494 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=2675 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=2166 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=3727 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=3409 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=2011 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=1478 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=533 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=3806 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  done always_opus
+  done always_glm
+  done always_opus_guess
+  done always_glm_guess
+  done random
+  done random_guess
+  done preroute
+  done preroute_guess
+  done cascade_glm
+  done cascade_guess
+  done cascade_select
+  done select2
+  done select3
+  done select_guess2
+                   pass_tune  pass_test  $/q_test  n_test  tuned_t  pass_test@default  %claude-opus-5-5  %claude-opus-5-5#guess  %glm-5.3-flash  %glm-5.3-flash#guess
+strategy                                                                                                                                                             
+always_opus           0.6677     0.6406    0.0099     498   0.0000             0.6406            1.0000                  0.0000          0.0000                0.0000
+always_glm            0.2373     0.2771    0.0016     498   0.0000             0.2771            0.0000                  0.0000          1.0000                0.0000
+always_opus_guess     0.6930     0.6426    0.0060     498   0.0000             0.6426            0.0000                  1.0000          0.0000                0.0000
+always_glm_guess      0.2785     0.2952    0.0010     498   0.0000             0.2952            0.0000                  0.0000          0.0000                1.0000
+random                0.4557     0.4498    0.0056     498   0.0000             0.4498            0.4880                  0.0000          0.5120                0.0000
+random_guess          0.5222     0.4719    0.0033     498   0.0000             0.4719            0.0000                  0.4880          0.0000                0.5120
+preroute              0.6677     0.6406    0.0100     498   0.5000             0.6406            1.0000                  0.0000          0.0000                0.0000
+preroute_guess        0.6930     0.6426    0.0060     498   0.5000             0.6426            0.0000                  1.0000          0.0000                0.0000
+cascade_glm           0.6709     0.6386    0.0103     498   0.2000             0.6386            0.8594                  0.0000          0.1406                0.0000
+cascade_guess         0.6962     0.6727    0.0118     498   0.8000             0.6647            0.8052                  0.1948          0.0000                0.0000
+cascade_select        0.6930     0.6627    0.0118     498   0.7000             0.6546            0.8434                  0.1446          0.0120                0.0000
+select2               0.6709     0.6386    0.0116     498   0.9000             0.5281            0.9699                  0.0000          0.0301                0.0000
+select3               0.6804     0.6506    0.0176     498   0.4000             0.6104            0.7851                  0.1285          0.0863                0.0000
+select_guess2         0.6930     0.6426    0.0070     498   1.0100             0.4739            0.0000                  1.0000          0.0000                0.0000
+oracle_opus_glm       0.6804     0.6606       NaN     498      NaN                NaN               NaN                     NaN             NaN                   NaN
+oracle_guess2         0.7089     0.6747       NaN     498      NaN                NaN               NaN                     NaN             NaN                   NaN
+oracle_all4           0.7532     0.7369       NaN     498      NaN                NaN               NaN                     NaN             NaN                   NaN
+
+per-question results -> /Users/tuxxon/PycharmProjects/interview/results/router_eval__jev-latest__n1000.csv

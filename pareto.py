@@ -206,7 +206,8 @@ def learned_scores(feats, qids, corr_cheap, corr_exp):
 
 def available():
     A = {s: load_results(s) for s in ANSWER_SPECS}
-    qids = sorted(q for q in A[OPUS] if all(A[s].get(q, {}).get("grade") for s in ANSWER_SPECS))
+    # require the headline pair; plain-Opus/GLM curves are restricted to questions they have graded
+    qids = sorted(q for q in A[OPUS_GUESS] if all(A[s].get(q, {}).get("grade") for s in (OPUS_GUESS, GLM_GUESS)))
     return A, qids
 
 
@@ -259,8 +260,9 @@ async def main_async(versions):
     print("questions with all 4 answer sets: %d (tune %d / test %d)" % (
         len(qids), sum(split_of(q) == "tune" for q in qids), sum(split_of(q) == "test" for q in qids)))
     jev = JevClient("jev-latest", concurrency=16)
-    corr = {s: {q: A[s][q]["grade"] == "CORRECT" for q in qids} for s in ANSWER_SPECS}
-    cost = {s: {q: A[s][q]["cost"] for q in qids} for s in ANSWER_SPECS}
+    graded = {s: {q for q in qids if A[s].get(q, {}).get("grade")} for s in ANSWER_SPECS}
+    corr = {s: {q: A[s][q]["grade"] == "CORRECT" for q in graded[s]} for s in ANSWER_SPECS}
+    cost = {s: {q: A[s][q]["cost"] for q in graded[s]} for s in ANSWER_SPECS}
     rows, curves = [], {}
     try:
         for cheap in (GLM_GUESS, GLM):
@@ -270,14 +272,14 @@ async def main_async(versions):
                 sc, jc = await jev_scores(jev, name, qs, fn, [(str(q), {"question": df.loc[q, "problem"]}) for q in qids])
                 sc = {int(k): v for k, v in sc.items()}
                 if sc and isinstance(next(iter(sc.values())), list):
-                    sc, w = learned_scores(sc, qids, corr[cheap], corr[EXPENSIVE])
+                    sc, w = learned_scores(sc, sorted(graded[cheap]), corr[cheap], corr[EXPENSIVE])
                     print("  %s/%s LR weights (bias first): %s" % (name, cheap.split("/")[-1], np.round(w, 2)))
                 curves[("preroute", name, cheap)] = (sc, jc, False)
             for name, (qs, fn) in CASCADE_VERSIONS.items():
                 if versions and name not in versions:
                     continue
                 items = [("%s|%d" % (cheap, q), {"question": df.loc[q, "problem"], "response": A[cheap][q]["response"] or "(empty)"})
-                         for q in qids]
+                         for q in sorted(graded[cheap])]
                 sc, jc = await jev_scores(jev, name, qs, fn, items)
                 sc = {int(k.split("|")[1]): v for k, v in sc.items()}
                 curves[("cascade", name, cheap)] = (sc, jc, True)
@@ -305,7 +307,7 @@ async def main_async(versions):
         qs = [q for q in qids if split == "all" or split_of(q) == split]
         boots = [rng.choice(len(qs), len(qs)) for _ in range(300)] if split == "test" else []
         for (kind, name, cheap), (sc, jc, casc) in curves.items():
-            q2 = [q for q in qs if q in sc]
+            q2 = [q for q in qs if q in sc and q in graded[cheap]]
 
             def stats(qq):
                 c = curve(qq, sc, corr[cheap], corr[EXPENSIVE], cost[cheap], cost[EXPENSIVE], casc)

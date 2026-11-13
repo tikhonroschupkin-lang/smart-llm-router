@@ -211,3 +211,36 @@
   ! [perplexity/glm-5.3-flash] qid=3682 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
   ! [perplexity/glm-5.3-flash] qid=3639 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
   ! [perplexity/glm-5.3-flash] qid=1390 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=1367 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  ! [perplexity/glm-5.3-flash] qid=3586 HTTP 401: {'message': 'Invalid API key provided. You can find your API key at https://console.perplexity.ai.', 'type': 'invalid_api_key', 'code': 401}
+  done always_opus
+  done always_glm
+  done always_opus_guess
+  done always_glm_guess
+  done preroute
+  done preroute_guess
+  done cascade_glm
+  done cascade_guess
+  done cascade_select
+  done select2
+  done select3
+  done select_guess2
+                   pass_tune  pass_test  $/q_test  n_test  tuned_t  pass_test@default  %claude-opus-5-5  %claude-opus-5-5#guess  %glm-5.3-flash  %glm-5.3-flash#guess
+strategy                                                                                                                                                             
+always_opus           0.6677     0.6406    0.0099     498   0.0000             0.6406            1.0000                  0.0000          0.0000                0.0000
+always_glm            0.2373     0.2771    0.0016     498   0.0000             0.2771            0.0000                  0.0000          1.0000                0.0000
+always_opus_guess     0.6930     0.6426    0.0060     498   0.0000             0.6426            0.0000                  1.0000          0.0000                0.0000
+always_glm_guess      0.2785     0.2952    0.0010     498   0.0000             0.2952            0.0000                  0.0000          0.0000                1.0000
+preroute              0.6677     0.6406    0.0100     498   0.5000             0.6406            1.0000                  0.0000          0.0000                0.0000
+preroute_guess        0.6930     0.6426    0.0060     498   0.5000             0.6426            0.0000                  1.0000          0.0000                0.0000
+cascade_glm           0.6709     0.6386    0.0103     498   0.2000             0.6386            0.8594                  0.0000          0.1406                0.0000
+cascade_guess         0.6962     0.6727    0.0118     498   0.8000             0.6647            0.8052                  0.1948          0.0000                0.0000
+cascade_select        0.6930     0.6627    0.0118     498   0.7000             0.6546            0.8434                  0.1446          0.0120                0.0000
+select2               0.6709     0.6386    0.0116     498   0.9000             0.5281            0.9699                  0.0000          0.0301                0.0000
+select3               0.6804     0.6506    0.0176     498   0.4000             0.6104            0.7851                  0.1285          0.0863                0.0000
+select_guess2         0.6930     0.6426    0.0070     498   1.0100             0.4739            0.0000                  1.0000          0.0000                0.0000
+oracle_opus_glm       0.6804     0.6606       NaN     498      NaN                NaN               NaN                     NaN             NaN                   NaN
+oracle_guess2         0.7089     0.6747       NaN     498      NaN                NaN               NaN                     NaN             NaN                   NaN
+oracle_all4           0.7532     0.7369       NaN     498      NaN                NaN               NaN                     NaN             NaN                   NaN
+
+per-question results -> /Users/tuxxon/PycharmProjects/interview/results/router_eval__jev-latest__n1000.csv
