@@ -299,6 +299,7 @@ async def main_async(versions):
                 curves[("preroute", "ens_" + "+".join(e.split("_")[0] for e in ens), cheap)] = (
                     {q: np.mean([r[q] for r in rk]) for q in common}, sum(p[1] for p in parts), False)
 
+    (RESULTS / "curves").mkdir(exist_ok=True)
     rng = np.random.RandomState(0)
     for split in ("tune", "test", "all"):
         qs = [q for q in qids if split == "all" or split_of(q) == split]
@@ -322,8 +323,10 @@ async def main_async(versions):
                 row["rand@%d" % (r * 100)] = random_saving(lo, hi, r)
             row.update({"exp_pass": hi[1], "cheap_pass": lo[1]})
             rows.append(row)
-            if split == "all":
-                c.to_csv(RESULTS / ("curve__%s__%s__%s.csv" % (kind, name, cheap.split("/")[-1].replace("#", "_"))), index=False)
+            if split in ("all", "test"):
+                c.assign(cheap_cost=lo[0], cheap_pass=lo[1], exp_cost=hi[0], exp_pass=hi[1]).to_csv(
+                    RESULTS / "curves" / ("%s__%s__%s__%s.csv" % (split, kind, name, cheap.split("/")[-1].replace("#", "_"))),
+                    index=False)
     res = pd.DataFrame(rows)
     with pd.option_context("display.float_format", "{:.3f}".format, "display.width", 250, "display.max_columns", 30):
         for split in ("tune", "test"):
